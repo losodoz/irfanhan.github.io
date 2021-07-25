@@ -1,6 +1,6 @@
 ---
 layout: post
-title: helooos
+title: helooos.html
 published: true
 ---
 lsoooooss
